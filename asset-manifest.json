@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/climareact/static/css/main.3751ae63.chunk.css",
+    "main.js": "/climareact/static/js/main.f8771a5f.chunk.js",
+    "main.js.map": "/climareact/static/js/main.f8771a5f.chunk.js.map",
+    "runtime~main.js": "/climareact/static/js/runtime~main.9a0139d1.js",
+    "runtime~main.js.map": "/climareact/static/js/runtime~main.9a0139d1.js.map",
+    "static/js/2.28f1cc8d.chunk.js": "/climareact/static/js/2.28f1cc8d.chunk.js",
+    "static/js/2.28f1cc8d.chunk.js.map": "/climareact/static/js/2.28f1cc8d.chunk.js.map",
+    "index.html": "/climareact/index.html",
+    "precache-manifest.895ada9b1055c37c5288d167a4636ed4.js": "/climareact/precache-manifest.895ada9b1055c37c5288d167a4636ed4.js",
+    "service-worker.js": "/climareact/service-worker.js",
+    "static/css/main.3751ae63.chunk.css.map": "/climareact/static/css/main.3751ae63.chunk.css.map"
+  }
+}
